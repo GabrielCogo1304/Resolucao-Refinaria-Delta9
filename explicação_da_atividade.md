@@ -1,0 +1,3 @@
+Nessa atividade eu resolvi equipe uma situação critica em que uma empresa ficticia onde se encontra uma Refinaria, mas que pode acontecer sim com uma empresa real. Com essa resolução e criação dessa função, a empresa pode voltar a utilizar e se situar cada detalhe e cada mudança que está acontecendo dentro do sistema. Sendo uma função, as empresa ou usuario pode chamar essa função criada e ultiizar em outros codigos, podendo adaptar a outros tipo de empresas diferentes.
+
+Tem o codigo sendo uma função e outro codigo não sendo função, para a comparação e utilização dos dois codigos
