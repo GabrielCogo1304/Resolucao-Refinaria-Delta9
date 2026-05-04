@@ -60,7 +60,7 @@ def processar_leituras():
 
         i += 1
 
-    print("\n=== Resumo realizado no seu turno ===")
+    print("\n Resumo realizado no seu turno->")
     print("Verdes:", zonas_verdes)
     print("Amarelas:", zonas_amarelas)
     print("Vermelhas:", zonas_vermelhas)
@@ -82,7 +82,7 @@ def processar_leituras():
 
 
 def instrucoes_trabalho():
-    print("\n=== Guia rápido do sistema ===")
+    print("\n Guia rápido do sistema-> ")
     print("1. Insira valores corretamente.")
     print("2. O sistema ajusta automaticamente os valores.")
     print("3. Duas zonas vermelhas seguidas causam travamento.")
@@ -98,7 +98,7 @@ def menu():
     nome_funcionario = ""
     
     while opcao != "3":
-        print("\n====== MENU PRINCIPAL ======")
+        print("\n MENU PRINCIPAL->")
         print("1 - Iniciar leituras")
         print("2 - Ver instruções de trabalho")
         print("3 - Sair")
